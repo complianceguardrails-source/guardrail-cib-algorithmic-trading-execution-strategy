@@ -1,0 +1,48 @@
+{
+  "guardrail_package_metadata": {
+    "name": "guardrail-algorithmic-trading-execution-strategy",
+    "use_case": "Algorithmic Trading Execution Strategy",
+    "sector": "CIB",
+    "modality": "structured",
+    "risk_tier": "high_risk",
+    "active_semver": "v0.1.0",
+    "framework": "open_policy_agent",
+    "indexed_global_regulatory_dependencies": [
+      {
+        "legal_reference_id": "USA-curated-list:ModelOriented/MAIR-https-www-wyden-senate-gov-imo-media-doc-Algorithmic-20Accountability-20Act-20of-202019-20Bill-20Text-pdf",
+        "authority": "curated-list:ModelOriented/MAIR",
+        "jurisdiction": "USA",
+        "source_url": "https://www.wyden.senate.gov/imo/media/doc/Algorithmic%20Accountability%20Act%20of%202019%20Bill%20Text.pdf",
+        "mandate": "[Formal regulations] Federal: Algorithmic Accountability Act of 2019"
+      },
+      {
+        "legal_reference_id": "New Jersey (US)-curated-list:execxai.com/atlas-https-www-execxai-com-atlas-return-us-nj-fair-act-2026",
+        "authority": "curated-list:execxai.com/atlas",
+        "jurisdiction": "New Jersey (US)",
+        "source_url": "https://www.execxai.com/atlas?return=us-nj-fair-act-2026",
+        "mandate": "Forbidding the Algorithmic Inflation of Rent (FAIR) Act (A3497)"
+      },
+      {
+        "legal_reference_id": "Switzerland-curated-list:execxai.com/atlas-https-www-execxai-com-atlas-return-ch-ai-strat",
+        "authority": "curated-list:execxai.com/atlas",
+        "jurisdiction": "Switzerland",
+        "source_url": "https://www.execxai.com/atlas?return=ch-ai-strat",
+        "mandate": "Switzerland AI Strategy"
+      },
+      {
+        "legal_reference_id": "European Union-curated-list:execxai.com/atlas-https-www-execxai-com-atlas-return-live-eu-ai-office-eu-ai-office-apply-ai-strategy-2025",
+        "authority": "curated-list:execxai.com/atlas",
+        "jurisdiction": "European Union",
+        "source_url": "https://www.execxai.com/atlas?return=live-eu-ai-office-eu-ai-office-apply-ai-strategy-2025",
+        "mandate": "Apply AI Strategy"
+      },
+      {
+        "legal_reference_id": "Nigeria-curated-list:execxai.com/atlas-https-www-execxai-com-atlas-return-ng-ai-strat",
+        "authority": "curated-list:execxai.com/atlas",
+        "jurisdiction": "Nigeria",
+        "source_url": "https://www.execxai.com/atlas?return=ng-ai-strat",
+        "mandate": "Nigeria National AI Strategy"
+      }
+    ]
+  }
+}
